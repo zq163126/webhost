@@ -129,6 +129,8 @@ GitHub Actions 将根据预设的时间表定期运行 `keepalive.py` 脚本。�
 
 ---
 
+感谢原代码作者：https://github.com/he-zhenpeng/sign-in-webHost
+
 ### 💡 免责声明
 
 本项目是为 WebHostMost 用户提供的自动化保活工具，仅限个人使用。使用本脚本时，请确保您遵守 WebHostMost 的服务条款及相关法律法规。此脚本的作者不对因使用该脚本而产生的任何问题或损失负责。
